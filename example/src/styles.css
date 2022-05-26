@@ -1,0 +1,43 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: left;
+    margin-top:18px;
+    min-height:50px;
+    width:100vw;
+    max-width:300px;
+    margin-right:12px;
+    font-weight: bold;
+}
+
+footer{
+    margin-top:auto;
+    min-height:50px;
+    font-size: smaller;
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    height:100vh;
+    margin:0;
+    align-items:center;
+    justify-content:center;
+}
+
+.autoplayExample{
+    font-style: italic;
+    margin: 24px;
+    max-width: 300px;
+}
+
+.buttonExample{
+    margin: 24px 0 24px 0;
+    display: flex;
+}
+
+.buttonExampleInput{
+    margin: 0 12px 0 12px;
+}
