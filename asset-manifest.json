@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tts/static/css/main.2f6dd835.css",
+    "main.js": "/react-tts/static/js/main.8ff24811.js",
+    "index.html": "/react-tts/index.html",
+    "main.2f6dd835.css.map": "/react-tts/static/css/main.2f6dd835.css.map",
+    "main.8ff24811.js.map": "/react-tts/static/js/main.8ff24811.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f6dd835.css",
+    "static/js/main.8ff24811.js"
+  ]
+}
