@@ -32,6 +32,7 @@ webpack.config.js
 .eslintrc
 .babelrc
 .idea
+build
 
 # OS generated files
 .DS_Store?
