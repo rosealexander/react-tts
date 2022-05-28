@@ -34,5 +34,5 @@
     "clean": "rm -rf dist",
     "build": "rm -rf dist && NODE_ENV=production babel lib --out-dir dist --copy-files"
   },
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
