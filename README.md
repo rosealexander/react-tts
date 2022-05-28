@@ -18,13 +18,13 @@ ___
   - component returned when variant is set as `'speak'`
 - **variant**
     - `'cancel' | 'speak' | 'pause' | 'resume'` defaults to 'speak'
-    
+___    
 ### Tts
 Higher-order component provides onClick `TtsBase` functionality.
 #### props - includes `TtsBase` props
 - **variant**
     -   `'cancel' | 'speak' | 'pause' | 'resume'` defaults to 'speak'
-
+___
 ### TtsBase
 forwardRef functional component, see [SpeechSynthesisUtterance](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesisUtterance)
 #### props
