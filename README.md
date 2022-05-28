@@ -1,7 +1,7 @@
 # react-tts
 A flexible [SpeechSynthesis](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis#browser_compatibility) adapter for React.
 - ### [Browser compatibility](https://developer.mozilla.org/en-US/docs/Web/API/SpeechSynthesis#browser_compatibility)
-- ### [Examples](example)
+- ### [Examples](https://github.com/rosealexander/react-tts/tree/main/example#readme)
 ## Use
 `npm install react-tts` or `yarn add react-tts`
 ___
